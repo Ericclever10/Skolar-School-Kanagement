@@ -15,7 +15,8 @@
     "react-dom": "latest",
     "recharts": "latest",
     "vite": "latest",
-    "xlsx": "latest"
+    "xlsx": "latest",
+    "@supabase/supabase-js": "^2.57.0"
   },
   "devDependencies": {
     "autoprefixer": "latest",
